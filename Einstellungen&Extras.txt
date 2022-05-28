@@ -1,0 +1,83 @@
+NTFSro entfernt
+
+Änderungen system.ini
+
+Entfernt:
+"MaxBPs=300"
+"DirectoryCache=96"
+"VideoFastPaste=On"
+
+Änderungen config.sys
+http://www.angelfire.com/linux/16_bit_os/dos/memory.htm
+DEVICE=%windir%\EMM386.exe I=B000-B7FF M3 D=256 RAM AUTO NOTR  
+
+FILESHIGH=140
+
+
+
+
+Einstellungen ändern
+
+Über die Inhalte des Ordner "Config" können Einstellungen geändert werden
+z.B. kann aktiviert werden das USB Massenspeicher nicht beendet werden müssen um sie zu schnell zu entfernen 
+"usb schnell entfernen.bat" anschließend neustarten.
+(Wenn vor wupg98 bereits Windows 98 Updates installiert wurden 
+kann es nicht schaden zu uberprüfen ob die Datei systray.exe Version nicht höher als 4.10.2222 die in C:\wupg\Recover sein sollte. Gegebenfalls ersetzen.)
+
+
+
+Extras
+
+Die Unterstützung des Jpeg Formats in Paint befindet sich im Ordner "mspaintfilter" und kann manuell installiert werden.
+
+In Hearts kann man jetzt über Alt+Strg+Umschalten+F12  die Karten der Gegner sehen.
+ 
+Die Internet Spiele finden Sie  in ihrem Windows Verzeichnis im Ordner "msg". 
+Bei einer Standard Windows Installation also unter C:\Windows\msg 
+
+Den Movie Maker finden Sie  in ihrem Windows Verzeichnis im Ordner "MovieMaker". 
+Bei einer Standard Windows Installation also unter C:\Windows\MovieMaker 
+---------------------------------------------------------------------------------------
+
+Als Extra gibt es auch noch einige .reg Dateien die sie selbst ausführen
+können und nicht standardmäßig installiert werden:
+
+-->NoDos.reg   Welches MS-Dos den Neustart im Ms-Dos Modus verhindert.
+
+
+
+-->MS-DOS-Eingabeaufforderung deaktivieren.reg Verhindert das die MS-DOS-Eingabeaufforderung geöffnet wird.
+
+
+-->Bootlogo entfernen .bat
+Damit wird das Bootlogo beim Laden entfernt sowie andere Performance Einstellungen beim Booten optimiert (z.B.: Warnmeldung vom abgesicherten Modus deaktiviert)
+
+
+
+-->designme.bat     
+-->design2000.bat
+Man kann als Hintergrund von Ordnern das
+"Windows 2000" oder "Windows Me"Design wählen.
+
+
+-->Kein freier Speicher Warnung deaktivieren.reg
+Deaktiviert das Windows Meldungen zeigt das der Festplattenspeicher
+knapp ist.
+
+
+
+
+
+
+
+-->PasswortLogon.reg erzwingt die Passworteingabe beim Start
+
+Der Client zur Anmeldung am Computer muss allerdings "Microsoft Family Logon" sein.
+------------------------------------------------------------------------------------------
+
+
+Durch Start--> Ausführen und Eingabe von C:\wupg\w\Deinstallieren.bat kann
+man das Programm wieder deinstallieren und die vorherigen Einstellungen
+nach einen Neustart wiederherstellen.
+
+
