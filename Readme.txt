@@ -1,34 +1,34 @@
 
-v0116_de Änderung 1:
+v0116_de Ã„nderung 1:
 USB safe remove devices tool.zip (optional)
 befindet sich in
 C:\wupg\201x\
 
-Änderung 2:
-Tipps für Windows 9x nun im Ordner "C:\wupg\201x\Autodidactic" enthalten.
+Ã„nderung 2:
+Tipps fÃ¼r Windows 9x nun im Ordner "C:\wupg\201x\Autodidactic" enthalten.
 
-Änderung 3
+Ã„nderung 3
 
 870669 >von IE982381 ersetzt
 JS56mde/814078 >von kb917344 ersetzt
 811630 >von hhupd.exe ersetzt
 
-Änderung 4
+Ã„nderung 4
 USBMT ist nun entfernt
 ****************
 
 
 
-Upgrade Pack 98 ©  by X-Pachner ® 
+Upgrade Pack 98 Â©  by X-Pachner Â® 
 
-Über eine Dekade alt und weit mehr reifer!
-  " WUPG98!, weil ein 12 Jahre reifes BS kein Vergleich zu ein "7" Monats Säuglings-BS ist"
+Ãœber eine Dekade alt und weit mehr reifer!
+  " WUPG98!, weil ein 12 Jahre reifes BS kein Vergleich zu ein "7" Monats SÃ¤uglings-BS ist"
 
 ***Upgrade Pack 98 - Afterlife light Editon!**** 
 
 
-Enthält rund 60 Microsoft Updates für Windows 98 auch für Internet Explorer 6.0 SP1,Windows Media Player 9.0 und DirectX 9.0 c unter Windows 98.
-USB Massenspeichergeräte Treiber,Movie Maker 1.0 mit 287564 Update,Internet-Spiele,und viele Erweiterungen für Windows 98.
+EnthÃ¤lt rund 60 Microsoft Updates fÃ¼r Windows 98 auch fÃ¼r Internet Explorer 6.0 SP1,Windows Media Player 9.0 und DirectX 9.0 c unter Windows 98.
+Movie Maker 1.0 mit 287564 Update,Internet-Spiele,und viele Erweiterungen fÃ¼r Windows 98.
 
 
 
@@ -45,11 +45,11 @@ DirectX 9.0 c
 
 64 MB Ram 
 
-Andernfalls Beeinträchtigung bei einigen Features oder es werden nicht alle
+Andernfalls BeeintrÃ¤chtigung bei einigen Features oder es werden nicht alle
 Updates installiert.
 
 
-Änderungen:
+Ã„nderungen:
 
 DirectDraw 3D setting
 
@@ -59,11 +59,11 @@ Special Extra:
 
 >137Gb HDD (manuelle Aktivierung im Config Ordner)
 
-Haupt-Änderungen:
+Haupt-Ã„nderungen:
 
-Siehe "201x"-Ordner für aftersetup
+Siehe "201x"-Ordner fÃ¼r aftersetup
 
-(!)KernelEx  v. 4.5, bietet neue Funktionen für Windows98 für ERW-Kompatibilität FireFox 3, Macromedia Flash 8 Professional,The Chronicles of Riddick EFBB Demo, Adobe Flash 10,1 Plugin  DOOM 3 funktionieren nun...)
+(!)KernelEx  v. 4.5, bietet neue Funktionen fÃ¼r Windows98 fÃ¼r ERW-KompatibilitÃ¤t FireFox 3, Macromedia Flash 8 Professional,The Chronicles of Riddick EFBB Demo, Adobe Flash 10,1 Plugin  DOOM 3 funktionieren nun...)
 
 u.v.m.
 
@@ -71,39 +71,39 @@ u.v.m.
 
 Info: Das Upgrade kann deinstalliert werden durch 
 
-Start-->Ausführen--> und eingeben von C:\wupg\w\Deinstallieren.bat
+Start-->AusfÃ¼hren--> und eingeben von C:\wupg\w\Deinstallieren.bat
 
 
-Für eventuelle Schäden übernehme ich keine Verantwortung.
+FÃ¼r eventuelle SchÃ¤den Ã¼bernehme ich keine Verantwortung.
 
 
 Inhalt:
 Windows 2000 Farbshema sowie Win ME Desktop Icons.
 Besseres Defrag und Windows 2000/ME Startsounds.
-Audio CDs können als Wav-Dateien dargestellt werden.
-Ermöglicht das HTML Dateien und Bild Dateien(gif,jpeg) in
-einem neuen Fenster des Internet Explorer geöffnet werden statt in einen 
-gerade geöffneten.
-Internet Explorer 6 Bug Fix (gegen Probleme beim Löschen von Dateien)
-Explorer extrem langsam ; "Eigene Dateien" ist ‚zu voll' Patch
-Rechtsklick auf Desktop Verknüpfungen dauert evt. länger Bugfix
+Audio CDs kÃ¶nnen als Wav-Dateien dargestellt werden.
+ErmÃ¶glicht das HTML Dateien und Bild Dateien(gif,jpeg) in
+einem neuen Fenster des Internet Explorer geÃ¶ffnet werden statt in einen 
+gerade geÃ¶ffneten.
+Internet Explorer 6 Bug Fix (gegen Probleme beim LÃ¶schen von Dateien)
+Explorer extrem langsam ; "Eigene Dateien" ist â€šzu voll' Patch
+Rechtsklick auf Desktop VerknÃ¼pfungen dauert evt. lÃ¤nger Bugfix
 
 Aktiviert die versteckte Funktion "Arbeitsplatz" in den Internetoptionen 
 unter dem Register Sicherheit als Webinhaltszone.
-Unterstützung des Jpeg Formats in Paint.
+UnterstÃ¼tzung des Jpeg Formats in Paint.
 Deaktiviert Warn-Meldung im Abgesicherten Modus. ("Bootlogo entfernen.bat")
 ZIP Komprimierter Ordner,besseres Regedit und Notepad.
-Hintergrund der Ordner wie Windows 2000/ME,beim erstellen von Verknüpfungen keine Namen mehr wie "Verknüpfung mit".
-Mehrspaltiges und schnelleres Startmenü,keine Unterbrechung beim Defragmentieren durch Bildschirmschoner mehr,
-,sofortige Aktualisierung des Desktops,256 färbige Systray Leiste,Papierkorb umbenennbar,fast alle
-Dateien mit Schnellansicht zum Öffnen,behebt einige Bugs,USB Massenspeicher Erkennung,
+Hintergrund der Ordner wie Windows 2000/ME,beim erstellen von VerknÃ¼pfungen keine Namen mehr wie "VerknÃ¼pfung mit".
+Mehrspaltiges und schnelleres StartmenÃ¼,keine Unterbrechung beim Defragmentieren durch Bildschirmschoner mehr,
+,sofortige Aktualisierung des Desktops,256 fÃ¤rbige Systray Leiste,Papierkorb umbenennbar,fast alle
+Dateien mit Schnellansicht zum Ã–ffnen,behebt einige Bugs,
 ,Beschleunigung des Diskettenlaufwerkes,
-mehr Sicherheit durch löschen des Inhalts der Dokumenteliste beim Beenden,
-nicht anzeigen des letzten Benutzers beim Anmelden,Anzeigen des ganzen Dateinamen,keine Automatische Wiedergabe für alle Daten CDs sowie Audio-CDs,
+mehr Sicherheit durch lÃ¶schen des Inhalts der Dokumenteliste beim Beenden,
+nicht anzeigen des letzten Benutzers beim Anmelden,Anzeigen des ganzen Dateinamen,keine Automatische Wiedergabe fÃ¼r alle Daten CDs sowie Audio-CDs,
 automatisches entladen von DLLs,Beschleunigung von 
-Zip-Laufwerken und Druckerschnittstelle,Actice Desktop kann deaktiviert werden,Ordner können über Rechtsklick im Dos Fenster
-geöffnet werden,USB Polling Interval erhöht,
-Befehl Uninstall im Kontextmenü von Inf Dateien,
+Zip-Laufwerken und Druckerschnittstelle,Actice Desktop kann deaktiviert werden,Ordner kÃ¶nnen Ã¼ber Rechtsklick im Dos Fenster
+geÃ¶ffnet werden,USB Polling Interval erhÃ¶ht,
+Befehl Uninstall im KontextmenÃ¼ von Inf Dateien,
 Thubnail View von Bildern und Reg Dateien um eine Passworteingabe zu erzwingen 
 oder Dos zu deaktivieren und noch mehr.
 
@@ -114,23 +114,23 @@ Einstellungen&Extras.txt
 
 Microsoft Updates:
 
-wucsp Windows® 98 Customer Service Pack 1 (nur erste Ausgabe)
+wucsp WindowsÂ® 98 Customer Service Pack 1 (nur erste Ausgabe)
 
-236926 TCP/IP von Windows 95 oder Windows 98 überträgt möglicherweise Pakete zu früh erneut
+236926 TCP/IP von Windows 95 oder Windows 98 Ã¼bertrÃ¤gt mÃ¶glicherweise Pakete zu frÃ¼h erneut
 
 243199   Probleme unter Windows 98 SE mit NDIS-Intermediate-Treibern
 
 
-263044   Fdisk erkennt die Gesamtgröße von Festplatten 
+263044   Fdisk erkennt die GesamtgrÃ¶ÃŸe von Festplatten 
          mit mehr als 64 GB nicht korrekt
 
 
-273017   ScanDisk wird auch nach korrektem Herunterfahren von Windows ausgeführt(Windows IDE Hard Drive Cache Package )
+273017   ScanDisk wird auch nach korrektem Herunterfahren von Windows ausgefÃ¼hrt(Windows IDE Hard Drive Cache Package )
 
 273727   DoS bei IPX/SPX-Protokoll mit Name Management Port  (malformed IPX NMPI Packet NWLINK.VXD  VSERVER.VXD Security Update )
 
 
-823559   Sicherheitsupdate für Microsoft® Windows 98 und Windows 98 Second Edition
+823559   Sicherheitsupdate fÃ¼r MicrosoftÂ® Windows 98 und Windows 98 Second Edition
 
 
 243450   ScanDisk-Fehler auf IDE-Festplatten mit mehr als 32 GB
@@ -142,29 +142,29 @@ TelnetUp Telnet Update
 4756de8.exe Shutdown Supplement (Windows 98 Second Edition Erweiterung zum Herunterfahren)
 
 
-329048   Ungeprüfter Puffer in Dateikomprimierungsfunktionen kann 
-         Angreifer die Ausführung von Code ermöglichen
+329048   UngeprÃ¼fter Puffer in Dateikomprimierungsfunktionen kann 
+         Angreifer die AusfÃ¼hrung von Code ermÃ¶glichen
 
 
-323172   Fehler im Steuerelement für die Zertifikatsregistrierung kann zum Löschen von Zertifikaten führen
+323172   Fehler im Steuerelement fÃ¼r die Zertifikatsregistrierung kann zum LÃ¶schen von Zertifikaten fÃ¼hren
 
 
-314147   Ungeprüfter Puffer im SNMP-Dienst kann die Ausführung von 
-         böswilligem Code ermöglichen
+314147   UngeprÃ¼fter Puffer im SNMP-Dienst kann die AusfÃ¼hrung von 
+         bÃ¶swilligem Code ermÃ¶glichen
 
 
-274548   Patch für Pufferüberlauf-Sicherheitsanfälligkeit in HyperTerminal
+274548   Patch fÃ¼r PufferÃ¼berlauf-SicherheitsanfÃ¤lligkeit in HyperTerminal
 
-260067   Windows hängt beim Herunterfahren mit zugeordneten Laufwerken
-
-
-259728   Windows hängt bei fragmentierten IP-Datagrammen
+260067   Windows hÃ¤ngt beim Herunterfahren mit zugeordneten Laufwerken
 
 
-256015   Schwerer Ausnahmefehler 0E mit mehreren MS-DOS-Gerätenamen im Pfad
+259728   Windows hÃ¤ngt bei fragmentierten IP-Datagrammen
 
 
-249973   Anzeigemodul für RTF-Dateien unterbricht Programmverarbeitung
+256015   Schwerer Ausnahmefehler 0E mit mehreren MS-DOS-GerÃ¤tenamen im Pfad
+
+
+249973   Anzeigemodul fÃ¼r RTF-Dateien unterbricht Programmverarbeitung
 
 
 245729   Windows 98-Datei-Zugriff-URL-Aktualisierung
@@ -172,42 +172,42 @@ TelnetUp Telnet Update
 
 
 
-311561   MS-DOS verarbeitet nicht ordnungsgemäß Datenträger-Hardwarefestplattenfehler
+311561   MS-DOS verarbeitet nicht ordnungsgemÃ¤ÃŸ DatentrÃ¤ger-Hardwarefestplattenfehler
 
 
 hhupd    HTML Hilfe Update(1.4)
 
 
 
-313829 Ungeprüfter Puffer in der Windows-Shell erlaubt möglicherweise die Ausführung von Code
+313829 UngeprÃ¼fter Puffer in der Windows-Shell erlaubt mÃ¶glicherweise die AusfÃ¼hrung von Code
 
 
-329115 Sicherheitsanfälligkeit in Zertifikatsprüfung ermöglicht vorgetäuschte Identität
+329115 SicherheitsanfÃ¤lligkeit in ZertifikatsprÃ¼fung ermÃ¶glicht vorgetÃ¤uschte IdentitÃ¤t
 
 
-888113 Sicherheitsanfälligkeit in Hyperlink-Objektbibliothek kann Codeausführung von Remotestandorten aus ermöglichen
+888113 SicherheitsanfÃ¤lligkeit in Hyperlink-Objektbibliothek kann CodeausfÃ¼hrung von Remotestandorten aus ermÃ¶glichen
 
 
 scr56  Windows Script 5.6
 
 
-891711 Sicherheitsanfälligkeit hinsichtlich der 
+891711 SicherheitsanfÃ¤lligkeit hinsichtlich der 
        Behandlung von Cursor- und Symbolformaten kann 
-       Codeausführung von Remotestandorten aus ermöglichen
+       CodeausfÃ¼hrung von Remotestandorten aus ermÃ¶glichen
 
 
 instmsia Windows Installer 2.0 Redistributable 
 
 
-240075 USB-Geräte funktionieren möglicherweise in 
+240075 USB-GerÃ¤te funktionieren mÃ¶glicherweise in 
        Windows 98 Second Edition nicht
 
 
 
-833989 Sicherheitupdate für Internet Explorer
+833989 Sicherheitupdate fÃ¼r Internet Explorer
 
 
-891781 Sicherheitupdate für Internet Explorer
+891781 Sicherheitupdate fÃ¼r Internet Explorer
 
 
 896358 Update
@@ -217,70 +217,70 @@ crlupd "Erroneous VeriSign-Issued Digital Certificates Pose
         Spoofing Hazard - Security Update"
 
 
-245682 IDE-Controller ist im Geräte-Manager deaktiviert
+245682 IDE-Controller ist im GerÃ¤te-Manager deaktiviert
 
 
-287564 Sicherheitupdate für Movie Maker 1.0
+287564 Sicherheitupdate fÃ¼r Movie Maker 1.0
 
 249635 USB Update hidclass.sys 4.10.2223
 
-unicows Microsoft Layer für Unicode
+unicows Microsoft Layer fÃ¼r Unicode
 
 
-241084 Computer hängt bei Wechsel in den ACPI S4 Mode mit  angeschlossenen USB Geräten
+241084 Computer hÃ¤ngt bei Wechsel in den ACPI S4 Mode mit  angeschlossenen USB GerÃ¤ten
 
-306453 Wenn Sie ein USB-Gerät entfernen oder wenn ein USB-Gerät hinzufügt, empfangen Sie einen Bugcheck in usbhub.sys
-
-
-253697 USB-Aufzählungsprobleme mit OpenHCI-Controller auf schnellen Computern
-
-290831 Anforderungen von SRB_FUNCTION_SHUTDOWN, während Herunterfahren nicht an SCSI-Miniports gesandt wird
+306453 Wenn Sie ein USB-GerÃ¤t entfernen oder wenn ein USB-GerÃ¤t hinzufÃ¼gt, empfangen Sie einen Bugcheck in usbhub.sys
 
 
-249146 Sounds möglicherweise mit Hilfe des PlaySound -API mit  USB-HID-Geräten sind deaktiviert vorhanden
+253697 USB-AufzÃ¤hlungsprobleme mit OpenHCI-Controller auf schnellen Computern
+
+290831 Anforderungen von SRB_FUNCTION_SHUTDOWN, wÃ¤hrend Herunterfahren nicht an SCSI-Miniports gesandt wird
+
+
+249146 Sounds mÃ¶glicherweise mit Hilfe des PlaySound -API mit  USB-HID-GerÃ¤ten sind deaktiviert vorhanden
 
 rootsupd Root Certificate Update
 
 274370 Fehlermeldung auf einem blauen Bildschirm, wenn Sie versuchen, digitale CD wiederzugeben
 
-269601  Windows-Treibermodell-Audioupdate für Windows 98 Second Edition (WDM)
+269601  Windows-Treibermodell-Audioupdate fÃ¼r Windows 98 Second Edition (WDM)
 
-272137 Wenn es ein langer Dateiname ein Novell NetWare-Server übergeben wird, funktioniert GetShortPathName() nicht
+272137 Wenn es ein langer Dateiname ein Novell NetWare-Server Ã¼bergeben wird, funktioniert GetShortPathName() nicht
 
-288430 Laptop-Computerhang während andocken, oder abdocken
+288430 Laptop-Computerhang wÃ¤hrend andocken, oder abdocken
 
 259253 ACPI-Computer mit Virenschutzsoftware installierte Stopps, die bei Neu-Start des Computers reagieren
 
 
-885258 Probleme mit der Skalierung von Bildern (Update für Internet Explorer 6 Service Pack 1  KB885258)
+885258 Probleme mit der Skalierung von Bildern (Update fÃ¼r Internet Explorer 6 Service Pack 1  KB885258)
 
-904706 Sicherheitsupdate für DirectX 9
-
-
-908519 Sicherheitsanfälligkeit bei eingebetteten Webschriftarten kann Remotecodeausführung ermöglichen
-
-913433 Sicherheitsupdate für Flash Player
+904706 Sicherheitsupdate fÃ¼r DirectX 9
 
 
-KB918439 Sicherheitsanfälligkeit in ART Wiedergabemodul kann 
-	 Remotecodeausführung ermöglichen 
+908519 SicherheitsanfÃ¤lligkeit bei eingebetteten Webschriftarten kann RemotecodeausfÃ¼hrung ermÃ¶glichen
+
+913433 Sicherheitsupdate fÃ¼r Flash Player
+
+
+KB918439 SicherheitsanfÃ¤lligkeit in ART Wiedergabemodul kann 
+	 RemotecodeausfÃ¼hrung ermÃ¶glichen 
 
 
 
-KB917344 Sicherheitsanfälligkeit in Microsoft JScriptkann 
-	 Remotecodeausführung ermöglichen
+KB917344 SicherheitsanfÃ¤lligkeit in Microsoft JScriptkann 
+	 RemotecodeausfÃ¼hrung ermÃ¶glichen
 
-KB918547 Sicherheitsanfälligkeit in Grafikwiedergabemodul kann 
-	 Remotecodeausführung ermöglichen
+KB918547 SicherheitsanfÃ¤lligkeit in Grafikwiedergabemodul kann 
+	 RemotecodeausfÃ¼hrung ermÃ¶glichen
 
 
-KB941569  Sicherheitsanfälligkeit in Windows Mediendateiformat kann Remotecodeausführung ermöglichen (2007)
+KB941569  SicherheitsanfÃ¤lligkeit in Windows Mediendateiformat kann RemotecodeausfÃ¼hrung ermÃ¶glichen (2007)
 
-KB923789 Sicherheitsupdate für Flash Player (2008)
+KB923789 Sicherheitsupdate fÃ¼r Flash Player (2008)
 
-KB953838 Kumulatives Sicherheitsupdate für Internet Explorer 6 Service Pack 1   (Oktober 2008)
+KB953838 Kumulatives Sicherheitsupdate fÃ¼r Internet Explorer 6 Service Pack 1   (Oktober 2008)
 
-KB2378111 Sicherheitsrisiko in Windows Media Player kann eine Codeausführung von Remotestandorten aus ermöglichen (2010)
+KB2378111 Sicherheitsrisiko in Windows Media Player kann eine CodeausfÃ¼hrung von Remotestandorten aus ermÃ¶glichen (2010)
 
 
 Windows Update 975562 (DirectX) (2010) 
